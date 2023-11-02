@@ -1,4 +1,5 @@
-# Experiments in AI and DSP
+# Philip J
+## Experiments in AI and DSP
 1. File handling 1 - idx file handling: https://github.com/philipjos/image_file_handling/blob/main/idx_handling.py
 2. File handling 2 - displaying a batch of images embedded in an idx: https://github.com/philipjos/image_file_handling/blob/main/idx_image_display.py
 3. GAN 1 - Train a discriminator on dataset of audio samples: https://github.com/philipjos/MLP-GAN-discriminator-training
